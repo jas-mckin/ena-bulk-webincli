@@ -1,0 +1,2 @@
+study_accession	sample_accession	assemblyname	assembly_type	coverage	program	platform	mingaplength	moleculetype	description	run_ref	fasta/flatfile name
+PRJEB...	SAMEA...	Unique_assemblyname	metagenome assembled genome (MAG)	30	Minimap2	OXFORD_NANOPORE	1	genomic DNA		ERR####	filename.fasta.gz
